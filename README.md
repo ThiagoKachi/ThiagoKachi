@@ -13,7 +13,7 @@
 
 <p align="left">Olá, me chamo <b>Thiago Kachinsky</b>, tenho 24 anos e moro em Santa Catarina, atualmente estou estudando para me tornar um desenvolvedor full-stack, no momento focado em React.</p>
 
-<p><img align="right" width="350px" height="600px" src="https://64.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gifv" alt="thiagokachi" /></p>
+<p><img align="right" width="420px" height="630px" src="https://s2.glbimg.com/HC6tW5_uSRI3ZHMBPTH-1PXCpn0=/e.glbimg.com/og/ed/f/original/2017/09/20/7.gif" alt="thiagokachi" /></p>
 
 - 📖 Estudo Desenvolvimento full-stack na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e faço Análise e Desenvolvimento de Sistemas na Uninter
 
