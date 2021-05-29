@@ -19,7 +19,7 @@
 
 - 👨‍💻 Atualmente estou aprofundando meus estudos em **Javascript e React**
 
-- 🌱 Tenho conhecimento em **HTML, CSS e Javascript**
+- 🌱 Tenho conhecimentos em **HTML, CSS, Javascript e React**
 
 - 📫 Para entrar em contato comigo: **tjk091@gmail.com**
 
