@@ -15,7 +15,7 @@
 
 <p><img align="right" width="420px" height="610px" src="https://s2.glbimg.com/HC6tW5_uSRI3ZHMBPTH-1PXCpn0=/e.glbimg.com/og/ed/f/original/2017/09/20/7.gif" alt="thiagokachi" /></p>
 
-- 📖 Estudo Desenvolvimento full-stack na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e sou formado em Análise e Desenvolvimento de Sistemas
+- 📖 Estudo Desenvolvimento full-stack em diversos cursos e sou formado em Análise e Desenvolvimento de Sistemas.
 
 - 👨‍💻 Atualmente estou aprofundando meus estudos em **React e Typescript**
 
