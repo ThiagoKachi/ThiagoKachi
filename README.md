@@ -13,7 +13,7 @@
 
 <p align="left">Olá, me chamo <b>Thiago Kachinsky</b>, tenho 25 anos e moro em Santa Catarina, sou programador Front-end e estou estudando para me tornar um desenvolvedor full-stack, no momento focado em React e Typescript. </p>
 
-<p><img align="right" width="400px" height="610px" src="https://s2.glbimg.com/HC6tW5_uSRI3ZHMBPTH-1PXCpn0=/e.glbimg.com/og/ed/f/original/2017/09/20/7.gif" alt="thiagokachi" /></p>
+<p><img align="right" width="380px" height="610px" src="https://s2.glbimg.com/HC6tW5_uSRI3ZHMBPTH-1PXCpn0=/e.glbimg.com/og/ed/f/original/2017/09/20/7.gif" alt="thiagokachi" /></p>
 
 - 📖 Estudo Desenvolvimento full-stack em diversos cursos e sou formado em Análise e Desenvolvimento de Sistemas.
 
