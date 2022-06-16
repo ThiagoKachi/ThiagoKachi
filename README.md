@@ -1,11 +1,11 @@
 <a href="https://github.com/ThiagoKachi" target="blank">
-  <img align="center" src="https://image.flaticon.com/icons/png/512/733/733553.png" alt="thiago-kachinsky" height="40" width="40" />
+  <img align="center" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="thiago-kachinsky" height="40" width="40" />
 </a>
 <a href="https://linkedin.com/in/thiago-kachinsky" target="blank">
-  <img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1646685376~hmac=7e0bf237a2ae8db6b6d38207d32f2954" alt="thiago-kachinsky" height="40" width="40" />
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="thiago-kachinsky" height="40" width="40" />
 </a>
 <a href="https://instagram.com/thiago_kachinsky" target="blank">
-  <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="thiago_kachinsky" height="40" width="40" />
+  <img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="thiago_kachinsky" height="40" width="40" />
 </a>
 
 <br />
