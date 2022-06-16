@@ -13,7 +13,7 @@
 
 <p align="left">Olá, me chamo <b>Thiago Kachinsky</b>, tenho 25 anos e moro em Santa Catarina, sou programador Front-end e estou estudando para me tornar um desenvolvedor full-stack, no momento focado em React e Typescript. </p>
 
-<p><img align="right" width="380px" height="610px" src="https://s2.glbimg.com/HC6tW5_uSRI3ZHMBPTH-1PXCpn0=/e.glbimg.com/og/ed/f/original/2017/09/20/7.gif" alt="thiagokachi" /></p>
+<p><img align="right" width="350px" height="610px" src="https://s2.glbimg.com/HC6tW5_uSRI3ZHMBPTH-1PXCpn0=/e.glbimg.com/og/ed/f/original/2017/09/20/7.gif" alt="thiagokachi" /></p>
 
 - 📖 Estudo Desenvolvimento full-stack em diversos cursos e sou formado em Análise e Desenvolvimento de Sistemas.
 
@@ -36,6 +36,6 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<p><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagokachi&show_icons=true&locale=en&layout=compact" alt="thiagokachi" /></p>
+<p><img align="center" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagokachi&show_icons=true&locale=en&layout=compact" alt="thiagokachi" /></p>
 
-<p>&nbsp;<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=thiagokachi&show_icons=true&locale=en" alt="thiagokachi" /></p>
+<p>&nbsp;<img align="left" width="330px" src="https://github-readme-stats.vercel.app/api?username=thiagokachi&show_icons=true&locale=en" alt="thiagokachi" /></p>
