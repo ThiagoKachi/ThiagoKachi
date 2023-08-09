@@ -24,8 +24,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER e tenho diver
 
 **Outras habilidades:**
 - Teste unitários (Jest e React testing library)
-- Context API
-- SaaS, Styled Components, Bootstrap e Chakra UI
+- Context API e React query
+- TailwindCSS, SaaS, Styled Components, Bootstrap, Chakra UI e Material UI
 - Metodologias ágeis (Scrum e Kanban)
 </p>
 
