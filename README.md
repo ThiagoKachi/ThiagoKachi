@@ -11,7 +11,7 @@
 <br />
 <br />
 
-<p align="left">Desenvolvedor front-end com 3 anos de experiência profissional. Tenho experiência em Javascript, React, Typescript e NextJs, programando diversos tipos de aplicações desde sistemas internos até plataformas de vendas. Estou focado em continuar aprendendo, no momento, estou estudando o mundo Mobile com React Native.
+<p align="left">Desenvolvedor front-end com 3 anos de experiência profissional. Tenho experiência em Javascript, React, Typescript e NextJs, programando diversos tipos de aplicações desde sistemas internos até plataformas de vendas. Estou focado em continuar aprendendo, no momento, estou estudando back-end com NodeJs.
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER e tenho diversos certificados na área da programação.
   
@@ -21,6 +21,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER e tenho diver
 - Typescript
 - NextJS
 - React Native
+- Angular
 
 **Outras habilidades:**
 - Teste unitários (Jest e React testing library)
