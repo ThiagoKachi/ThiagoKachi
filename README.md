@@ -11,14 +11,16 @@
 <br />
 <br />
 
-<p align="left">Desenvolvedor front-end com 3 anos de experiência profissional. Tenho experiência em Javascript, React, Typescript e NextJs, programando diversos tipos de aplicações desde sistemas internos até plataformas de vendas. Estou focado em continuar aprendendo, no momento, estou estudando back-end com NodeJs.
+<p align="left">Olá! Meu nome é Thiago, e sou um desenvolvedor front-end. Especializado em Javascript, React, Typescript e NextJs, tenho dedicado minha carreira a criar experiências de usuário excepcionais e funcionais.
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER e tenho diversos certificados na área da programação.
+Atualmente, desempenho o papel de front-end em uma empresa de Crossborder global, onde sou responsável por toda a parte de Front-end. Meu trabalho envolve a criação e aprimoramento contínuo de sistemas internos, dashboards e etc, garantindo que as interfaces sejam intuitivas, responsivas e proporcionem uma experiência do usuário de alta qualidade.
+
+Minha experiência inclui trabalhos anteriores em diversos projetos, como e-commerces. Essa vivência me proporcionou habilidades sólidas na resolução de problemas e na entrega eficiente de soluções.
   
-**Linguagens e frameworks:**
-- ReactJS
+**🛠️ Linguagens e frameworks:**
 - Javascript
 - Typescript
+- ReactJS
 - NextJS
 - React Native
 - Angular
@@ -30,9 +32,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER e tenho diver
 - Metodologias ágeis (Scrum e Kanban)
 </p>
 
-<p><img align="right" width="350px" height="500px" src="https://s2.glbimg.com/HC6tW5_uSRI3ZHMBPTH-1PXCpn0=/e.glbimg.com/og/ed/f/original/2017/09/20/7.gif" alt="thiagokachi" /></p>
+**📚 Atualmente estudando:** Back-end com NodeJS
 
-- 📫 Para entrar em contato comigo: **tjk091@gmail.com**
+📫 Para entrar em contato comigo: **tjk091@gmail.com**
 
 <p><img align="center" width="320" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoKachi&show_icons=true&locale=en&layout=compact" alt="thiagokachi" /></p>
 <p><img align="center" width="480" height="230" src="https://github-readme-stats.vercel.app/api?username=ThiagoKachi&show_icons=true&locale=en" alt="thiagokachi" /></p>
