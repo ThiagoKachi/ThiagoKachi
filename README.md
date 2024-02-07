@@ -36,5 +36,6 @@ Minha experiência inclui trabalhos anteriores em diversos projetos, como e-comm
 
 📫 Para entrar em contato comigo: **tjk091@gmail.com**
 
-<p><img align="center" width="320" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoKachi&show_icons=true&locale=en&layout=compact" alt="thiagokachi" /></p>
-<p><img align="center" width="480" height="230" src="https://github-readme-stats.vercel.app/api?username=ThiagoKachi&show_icons=true&locale=en" alt="thiagokachi" /></p>
+<p><img align="center" width="320" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoKachi&show_icons=true&locale=en&layout=compact" alt="thiagokachi" />
+  <img align="center" width="450" height="180" src="https://github-readme-stats.vercel.app/api?username=ThiagoKachi&show_icons=true&locale=en" alt="thiagokachi" />
+</p>
