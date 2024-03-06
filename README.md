@@ -1,8 +1,8 @@
 <a href="https://github.com/ThiagoKachi" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="thiago-kachinsky" height="40" width="40" />
+  <img align="center" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="thiago-kachinsky" height="30" width="30" />
 </a>
 <a href="https://linkedin.com/in/thiago-kachinsky" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="thiago-kachinsky" height="40" width="40" />
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="thiago-kachinsky" height="30" width="30" />
 </a>
 
 <br />
